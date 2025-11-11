@@ -1,0 +1,48 @@
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 5, BWD ID: 0
+Eviction on FWD3FWD_Output_Cache3
+Transfer is successful
+Time taken: 4.04 seconds
+Object: FWD3FWD_Output_Cache3, ID: 3
+DRAM percent = 0.06, Optane percent = 99.94
+------------------------------------------------------------
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 6, BWD ID: 0
+Eviction on FWD5FWD_Output_Cache6
+Transfer is successful
+Time taken: 1.28 seconds
+Object: FWD5FWD_Output_Cache6, ID: 5
+DRAM percent = 0.25, Optane percent = 99.75
+------------------------------------------------------------
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 6, BWD ID: 0
+Eviction on FWD5FWD_Output_Cache7
+Transfer is successful
+Time taken: 0.32 seconds
+Object: FWD5FWD_Output_Cache7, ID: 5
+DRAM percent = 77.78, Optane percent = 0.00
+------------------------------------------------------------
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 6, BWD ID: 0
+Eviction on FWD5FWD_Output_Cache8
+Transfer is successful
+Time taken: 1.49 seconds
+18.000000,0x7f3d3e0fb000 - 0x7f3d6ee3a000,3
+------------------------------------------------------------
+Object: FWD5FWD_Output_Cache8, ID: 5
+DRAM percent = 0.00, Optane percent = 100.00
+------------------------------------------------------------
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 6, BWD ID: 0
+Eviction on FWD5FWD_Output_Cache9
+Transfer is successful
+Time taken: 1.15 seconds
+19.000000,0x7f3d0d3ba000 - 0x7f3d3e0f9000,3
+------------------------------------------------------------
+Object: FWD5FWD_Output_Cache9, ID: 5
+DRAM percent = 0.00, Optane percent = 100.00
+------------------------------------------------------------
+Epoch: 1, FWD: 1, BWD: 0, FWD ID: 6, BWD ID: 0
+Eviction on FWD5FWD_Output_Cache10
+Transfer is successful
+Time taken: 0.42 seconds
+19.000000,0x7f3d0d3ba000 - 0x7f3d3e0f9000,3
+------------------------------------------------------------
+Object: FWD5FWD_Output_Cache10, ID: 5
+DRAM percent = 0.00, Optane percent = 100.00
+------------------------------------------------------------
