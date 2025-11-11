@@ -29,7 +29,7 @@ gcc -o tier_train_daemon tier_train_daemon.c -lpthread -lrt -lnuma
 ### Notes
 
 - To change fast and slow memory nodes, edit below lines in `tier_train_daemon.c`
-```
+```c
 #define FAST_MEM_NODE 0
 #define SLOW_MEM_NODE 3
 ```
